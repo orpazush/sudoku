@@ -4,7 +4,7 @@ Sudoku
 
 An actual game you can play on the terminal.
 
-In order to play:
+In order to play you can use one of this options:
 
     Run the command "./play" at the terminal.
     Build & run the project at your IDE.
